@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-image: url(" https://www.mmhealth.org/wp-content/uploads/Yoga-2.png ");
+  background-size: cover;
+  font-weight: bold;
+ 
+}
+
+h1{
+ font-family:cursive;
+ color: rgb(224, 111, 224);
+ font-weight:bolder;
+ text-decoration:underline;
+}

@@ -1,0 +1,37 @@
+.AddButton{
+    margin-top: 60px;
+    margin-left:40px;
+    padding: 5px;
+    color: rgb(182, 88, 182);
+    font-weight: bolder;
+    border: 3px solid rgb(21, 165, 117);
+    border-radius: 10px;
+    background-color: rgb(211, 236, 227);
+   
+}
+
+.AddButton:hover{
+    background-color: rgb(233, 197, 233);
+}
+
+.AddId, .AddDescription, .AddDone {
+    width:400px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 15px;
+    border: 2px solid purple;
+    margin-top: 40px;
+    text-align: center;
+   
+   
+}
+
+.ModalButton{
+    margin-top: 50px;
+    padding: 15px;
+    font-size: smaller;
+}
+
+.ModalButton:hover{
+    opacity: 0.6;
+}

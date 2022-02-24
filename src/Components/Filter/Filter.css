@@ -1,0 +1,10 @@
+.Filter{
+    padding: 7px;
+    border-radius: 10px;
+    border: 2px solid rgb(48, 182, 137);
+    color:rgb(19, 151, 107);
+    background-color: rgb(241, 202, 241);
+    font-weight: bolder;
+    margin-top: 30px;
+    font-family: cursive;
+}
